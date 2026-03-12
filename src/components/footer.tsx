@@ -1,7 +1,7 @@
 import Link from 'next/link'
 
 const FOOTER_LINKS = [
-  { href: '/criadoras/', label: 'Explorar criadoras' },
+  { href: '/criadoras/', label: 'Conhecer criadoras' },
   { href: '/sobre/', label: 'Sobre o projeto' },
   { href: '/contribuir/', label: 'Como contribuir' },
 ]
