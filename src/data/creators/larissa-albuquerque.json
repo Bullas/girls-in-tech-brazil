@@ -1,0 +1,17 @@
+{
+  "slug": "larissa-albuquerque",
+  "name": "Larissa Albuquerque",
+  "headline": "Fundadora da RFEC Frontend Brasil e desenvolvedora frontend pleno",
+  "bio": "Larissa Albuquerque é desenvolvedora frontend pleno e fundadora da RFEC Frontend Brasil, comunidade de tecnologia sediada em Recife, Pernambuco. Atua na disseminação do conhecimento em desenvolvimento web, reunindo profissionais e entusiastas de frontend no Nordeste.",
+  "region": "PE",
+  "categories": ["Frontend", "Community"],
+  "tags": ["Frontend", "Comunidade", "Recife", "Nordeste"],
+  "links": {
+    "instagram": "https://www.instagram.com/rfecommunity",
+    "linkedin": "https://www.linkedin.com/in/larissa-azevedo-albuquerque",
+    "github": "https://github.com/larialbu",
+    "website": "https://larialbu.github.io/larissa-albuquerque-dev/"
+  },
+  "featured": false,
+  "createdAt": "2026-03-10"
+}
