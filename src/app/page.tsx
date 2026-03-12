@@ -18,7 +18,7 @@ export default async function HomePage() {
         eyebrow="Amplificando vozes femininas na tecnologia"
         title="Descubra quem são as mulheres que estão construindo o futuro tech no Brasil"
         description="Um site colaborativo de criadoras de conteúdos brasileiras em tecnologia. Encontre referências em programação, IA, dados, design, carreira e desenvolvimento de software."
-        primaryAction={{ label: 'Explorar criadoras', href: '/criadoras/' }}
+        primaryAction={{ label: 'Conhecer criadoras', href: '/criadoras/' }}
         secondaryAction={{ label: 'Como contribuir', href: '/contribuir/' }}
       />
 
