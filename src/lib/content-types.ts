@@ -18,15 +18,15 @@ type ContentTypeMeta = {
 }
 
 export const CONTENT_TYPE_META: Record<ContentType, ContentTypeMeta> = {
-  youtube: { label: 'YouTube', icon: Play },
+  blog: { label: 'Blog', icon: BookOpenText },
+  github: { label: 'GitHub', icon: Github },
   instagram: { label: 'Instagram', icon: Instagram },
   linkedin: { label: 'LinkedIn', icon: Linkedin },
-  github: { label: 'GitHub', icon: Github },
-  website: { label: 'Website', icon: Globe },
-  blog: { label: 'Blog', icon: BookOpenText },
-  podcast: { label: 'Podcast', icon: Mic2 },
   newsletter: { label: 'Newsletter', icon: Mail },
+  podcast: { label: 'Podcast', icon: Mic2 },
   twitter: { label: 'Twitter', icon: Twitter },
+  website: { label: 'Website', icon: Globe },
+  youtube: { label: 'YouTube', icon: Play },
 }
 
 export function getContentTypeLabel(type: ContentType) {

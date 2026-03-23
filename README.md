@@ -6,7 +6,7 @@
 
 <p><strong>Descubra quem está construindo o futuro tech no Brasil.</strong></p>
 
-<p>Vitrine curada de brasileiras criadoras de conteúdos técnicos sobre tecnologia —<br/>com perfis editoriais, filtros por categoria, busca e página de descoberta animada.</p>
+<p>Vitrine curada de criadoras brasileiras de conteúdos técnicos sobre tecnologia —<br/>com perfis editoriais, filtros por categoria, busca e página de descoberta animada.</p>
 <p>🌐 <strong><a href="https://bullas.github.io/girls-in-tech-brazil/">bullas.github.io/girls-in-tech-brazil</a></strong> — site publicado</p>
 
 <!-- Tecnologias -->

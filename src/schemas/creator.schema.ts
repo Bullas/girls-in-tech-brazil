@@ -1,22 +1,22 @@
 import { z } from 'zod'
 
 export const CREATOR_CATEGORIES = [
-  'Frontend',
+  'AI',
   'Backend',
+  'Career',
+  'Cloud',
+  'Community',
+  'Data',
+  'DevOps',
+  'Education',
+  'Engineering Leadership',
+  'Frontend',
   'Full Stack',
   'Mobile',
-  'Data',
-  'AI',
-  'Cloud',
-  'DevOps',
+  'Open Source',
+  'Product',
   'Security',
   'UX/UI',
-  'Career',
-  'Community',
-  'Open Source',
-  'Education',
-  'Product',
-  'Engineering Leadership',
 ] as const
 
 export type Category = (typeof CREATOR_CATEGORIES)[number]
@@ -54,15 +54,15 @@ export const BRAZILIAN_UFS = [
 export type BrazilianUF = (typeof BRAZILIAN_UFS)[number]
 
 export const LINK_KEYS = [
-  'youtube',
+  'blog',
+  'github',
   'instagram',
   'linkedin',
-  'github',
-  'website',
-  'blog',
-  'podcast',
   'newsletter',
+  'podcast',
   'twitter',
+  'website',
+  'youtube',
 ] as const
 
 export type ContentType = (typeof LINK_KEYS)[number]
