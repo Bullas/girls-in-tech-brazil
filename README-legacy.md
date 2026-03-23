@@ -8,7 +8,7 @@ Novas contribuições devem seguir o fluxo documentado em [CONTRIBUTING.md](./CO
 
 # 👩‍💻 Girls in Tech Brazil
 
-Um repositório colaborativo que reúne **criadoras de conteúdo brasileiras da área de tecnologia**.
+Um repositório colaborativo que reúne **criadoras brasileiras de conteúdo da área de tecnologia**.
 
 A ideia deste projeto é **amplificar a voz de mulheres no mundo tech**, facilitando a descoberta de canais, perfis e criadoras que produzem conteúdos incríveis sobre programação, inteligência artificial, ciência de dados, design, carreira em tecnologia e desenvolvimento de software.
 

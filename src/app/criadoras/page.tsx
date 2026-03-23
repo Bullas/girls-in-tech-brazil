@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description:
     'Descubra mulheres referências em tecnologia no Brasil. Busque por área, tipo de conteúdo e muito mais.',
   openGraph: {
-    title: 'Descubra criadoras de tecnologia brasileiras',
+    title: 'Descubra criadoras brasileiras de tecnologia',
     description: 'Vitrine curada de mulheres técnicas da comunidade brasileira de tecnologia.',
     images: ['/images/og-default.png'],
   },

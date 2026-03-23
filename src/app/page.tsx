@@ -17,7 +17,7 @@ export default async function HomePage() {
       <Hero
         eyebrow="Amplificando vozes femininas na tecnologia"
         title="Descubra quem são as mulheres que estão construindo o futuro tech no Brasil"
-        description="Um site colaborativo de criadoras de conteúdos brasileiras em tecnologia. Encontre referências em programação, IA, dados, design, carreira e desenvolvimento de software."
+        description="Um site colaborativo de criadoras brasileiras de conteúdos em tecnologia. Encontre referências em programação, desenvolvimento de software, IA, dados, design e carreira."
         primaryAction={{ label: 'Conhecer criadoras', href: '/criadoras/' }}
         secondaryAction={{ label: 'Como contribuir', href: '/contribuir/' }}
       />
@@ -47,7 +47,7 @@ export default async function HomePage() {
       <SectionReveal className="section-gap pt-0">
         <div className="mb-8 space-y-3">
           <p className="eyebrow">Em destaque</p>
-          <h2 className="text-3xl font-black tracking-tight">Referências para inspirar e aprender</h2>
+          <h2 className="text-3xl font-black tracking-tight">Referências para se inspirar e aprender</h2>
           <p className="max-w-2xl leading-7 text-[var(--color-text-muted)]">
             Perfis de mulheres que produzem conteúdo incrível sobre tecnologia — da programação ao
             design, da IA à carreira tech.
